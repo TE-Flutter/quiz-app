@@ -1,16 +1,11 @@
-# course_example_app
+# Quiz App
 
-A new Flutter project.
+This is a simple Flutter application that you can use. It can be useful if you want to implement surveys and quizzes for your ideas
 
-## Getting Started
+## Examples
 
-This project is a starting point for a Flutter application.
+<img src="[http://url/image.png](https://github.com/TE-Flutter/quiz-app/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20Max%20-%202022-11-02%20at%2008.38.58.png)" height="60" width="60" >
+<img src="http://url/image.png" height="60" width="60" >
+<img src="http://url/image.png" height="60" width="60" >
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
