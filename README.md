@@ -1,6 +1,6 @@
 # Quiz App
 
-This is a simple Flutter application that you can use. It can be useful if you want to implement surveys and quizzes for your ideas. Questions, points and answers can be changed. After passing, the result is counted
+This is a simple Flutter application that you can use. It can be useful if you want to implement surveys and quizzes for your ideas. Questions, points and answers can be changed. After passing, the result is counted.
 
 ## Examples
 
